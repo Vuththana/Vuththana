@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hello World :D</h1>
 
-<!--
-**Vuththana/Vuththana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>🖤 Follow me here:</b><br>
+  <a href="https://discord.com/users/452761144583651328">Discord</a> |
+  <a href="https://www.youtube.com/channel/UCanlNtOR6BPP6mfvUMDtbEg">YouTube</a> |
+  <a href="https://github.com/Vuththana">Github</a> |
+  <br><br>
+  <img src="https://i.pinimg.com/originals/f7/e4/e5/f7e4e55b4a7379e5a238783b8811a119.gif">
+  <br><br>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+```diff
+👤 >> 21 years old, Cambodian developper.
+🐺 >> Full Stack Web Developer
+```
+#
+"# ReadMe.md" 
