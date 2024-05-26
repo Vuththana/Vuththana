@@ -12,8 +12,8 @@
 
 #
 ```diff
-👤 >> 21 years old, Cambodian developer.
-🐺 >> Full Stack Web Developer
+>> 21 years old, Cambodian developer.
+>> Full Stack Web Developer
 ```
 #
 "# ReadMe.md" 
