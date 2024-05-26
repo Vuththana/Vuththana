@@ -1,7 +1,7 @@
-<h1 align="center">Hello World :D</h1>
+<h1 align="center">Welcome to my github</h1>
 
 <p align="center">
-  <b>🖤 Follow me here:</b><br>
+  <b>Find me here:</b><br>
   <a href="https://discord.com/users/452761144583651328">Discord</a> |
   <a href="https://www.youtube.com/channel/UCanlNtOR6BPP6mfvUMDtbEg">YouTube</a> |
   <a href="https://github.com/Vuththana">Github</a> |
@@ -12,7 +12,7 @@
 
 #
 ```diff
-👤 >> 21 years old, Cambodian developper.
+👤 >> 21 years old, Cambodian developer.
 🐺 >> Full Stack Web Developer
 ```
 #
