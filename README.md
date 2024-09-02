@@ -6,7 +6,7 @@
   <a href="https://www.youtube.com/channel/UCanlNtOR6BPP6mfvUMDtbEg">YouTube</a> |
   <a href="https://github.com/Vuththana">Github</a> |
   <br><br>
-  <b>More about me</b><br>
+  <b>More about me:</b><br>
   <a href="https://main--portofolia-vuththana.netlify.app/">Check out my Portfolio</a> |
   <br></br>
   <img src="https://i.pinimg.com/originals/f7/e4/e5/f7e4e55b4a7379e5a238783b8811a119.gif">
