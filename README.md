@@ -16,6 +16,6 @@
 #
 ```diff
 >> 21 years old, Cambodian developer.
->> Full Stack Web Developer
+>> Full Stack Developer
 ```
 #
