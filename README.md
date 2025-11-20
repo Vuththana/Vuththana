@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuththana&label=Profile%20views&color=0e75b6&style=flat" alt="vuththana" /> </p>
 
-- 🌱 I’m currently learning **MERN, PYTHON**
-
 - 📫 How to reach me **vuththanakeo69@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
